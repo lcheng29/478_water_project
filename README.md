@@ -10,6 +10,9 @@ Visual Studio Code and GitHub were integral tools to to foster collaboration and
 A significant portion of the project code is built upon previous code used in ENGR 478 lab sessions. 
 
 Lab 9 (GPIO switch and edge-triggered interrupts).
+
 Lab 10 (systick timers).
+
 ADC (sample project version).
+
 STM32L476xx header/assembly files that complement the textbook, "Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C, Yifeng Zhu".
